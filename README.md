@@ -4,7 +4,7 @@ It is public template of assignment `"labrabota 3"` for FPMI students
 
 # Usage
 
-Please, edit README and add some details, as instance **{Klyha Gleb, 13group}**.
+~~Please, edit README and add some details, as instance~~ **{Klyha Gleb, 13group}**.
 
 # Building
 
